@@ -17,5 +17,5 @@ Both tools are from [Google Cloud Platform](https://cloud.google.com/).
 This repo contains both the analysis report and the pdf version of the Data Studio report. 
 You can access the data studio report with this [link](https://datastudio.google.com/reporting/80025518-5668-4c47-bf95-c036206182af).
 
-In the 'Business Analysis' Section, the report allows 'custom query' on different businesses, but this requires Edit Access of the report, and the link above only grants you view access.
+In the 'Business Analysis' Section, the report allows 'custom query' on different businesses, but this requires edit access of the report, and the link above only grants you view access.
 If you want to try out the feature, please contact me at `zzhu35@dons.usfca.edu`.
